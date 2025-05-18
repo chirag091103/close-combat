@@ -7,7 +7,7 @@ def combine_huntress_sprites():
     
     # Define the sprite order and their files
     sprite_files = [
-        "Idle.png",      # idle - 8 frames
+        "Idle.png",      # idle - 8 frame
         "Run.png",       # run - 8 frames
         "Jump.png",      # jump - 2 frames
         "Attack1.png",   # attack1 - 5 frames

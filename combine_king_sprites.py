@@ -7,7 +7,7 @@ def combine_king_sprites():
     
     # Define the sprite order and their files with their frame counts
     sprite_files = [
-        ("Idle.png", 8),      # idle - 8 frames
+        ("Idle.png", 8),      # idle - 8 frame
         ("Run.png", 8),       # run - 8 frames
         ("Jump.png", 2),      # jump - 2 frames
         ("Attack1.png", 4),   # attack1 - 4 frames

@@ -13,7 +13,7 @@ def start_game(p1_character, p2_character, background_map):
     SCREEN_HEIGHT = 600
 
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-    pygame.display.set_caption("close combat")
+    pygame.display.set_caption("close")
 
     #set framerate
     clock = pygame.time.Clock()
